@@ -1,4 +1,4 @@
-#!/opt/homebrew/Cellar/bash/5.2.37/bin/bash
+#!/bin/bash
 
 DEBUG="$1"
 
